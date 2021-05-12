@@ -15,6 +15,7 @@ O código deve ser adicionado no formato
 
 Para realçar mais de uma linguagem, você precisa escrever
 > em _linguagem_
+
 na primeira linha do seu bloco de código.
 
 Exemplo:
