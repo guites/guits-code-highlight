@@ -1,4 +1,5 @@
 <?php
+defined('ABSPATH') or die("Acesso direto proibido.");
 
 /**
 * Plugin Name: Guits Code Highlight
